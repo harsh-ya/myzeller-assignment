@@ -1,0 +1,13 @@
+{
+  "name": "myzeller-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf ./dist/ && tsc",
+    "start": "node ./dist/index"
+  },
+  "keywords": [],
+  "author": "Harsh",
+  "license": "ISC",
+  "description": ""
+}
